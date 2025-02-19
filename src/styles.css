@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+
+  body {
+  background-color: rgba(255, 255, 255, 0.2);
+  background: radial-gradient(at 18% 99%, rgb(255, 255, 255) 0px, transparent 50%) repeat scroll 0% 0%, radial-gradient(at 97% 8%, rgb(255, 255, 255) 0px, transparent 50%) repeat scroll 0% 0%, radial-gradient(at 79% 82%, rgb(223, 235, 167) 0px, transparent 50%) repeat scroll 0% 0%, radial-gradient(at 96% 10%, rgb(255, 255, 255) 0px, transparent 50%) repeat scroll 0% 0%, radial-gradient(at 42% 20%, rgb(255, 255, 255) 0px, transparent 50%) repeat scroll 0% 0%, radial-gradient(at 4% 49%, rgb(196, 149, 161) 0px, transparent 50%) repeat scroll 0% 0%, radial-gradient(at 57% 33%, rgb(133, 148, 66) 0px, #d8bed1 50%) repeat scroll 0% 0%;
+  background-attachment: fixed;
+  color: #1b1b1b;
+  
+}
