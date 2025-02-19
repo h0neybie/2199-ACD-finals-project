@@ -5,7 +5,7 @@ import { ReactiveFormValidationComponent } from './reactive-form-validation/reac
 import { HomeComponent } from './home/home.component';
 export const routes: Routes = [
 
-    {path : 'home', component : HomeComponent},
+    {path : '', component : HomeComponent},
     {path : 'td', component : TemplateDrivenFormComponent},
     {path : 'rf', component : ReactiveFormDemoComponent},
     {path : 'rfv', component : ReactiveFormValidationComponent}
